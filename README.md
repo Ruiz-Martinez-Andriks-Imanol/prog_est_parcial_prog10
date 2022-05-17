@@ -14,7 +14,7 @@ Muestra el uso de:
     <li>El uso de include para las librerías</li>
     <li>Librerías de la función string.h</li>
     <li>Uso de condicionales</li>
-    <li>arhcivos en cpp y tipo Header</li>
+    <li>Archivos en cpp y tipo Header</li>
     <li>#define MAX</li>
     <li>Ciclos</li>
     <li>fflush</li>
