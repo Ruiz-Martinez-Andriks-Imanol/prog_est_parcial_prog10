@@ -34,12 +34,13 @@ Este programa es un menú que debe tener las siguientes opciones:
 	<li>Imprimir</li>
 	<li>Alumnos Aprobados</li>
 	<li>Alumnos Reprobados</li>
-	<li>Promedio del grupo<li>
-	<li>Porcentaje de alumnos Aprobados<li>
+	<li>Promedio del grupo</li>
+	<li>Porcentaje de alumnos Aprobados</li>
     </ul>
 	Para hacer operaciones con las calificaciones con los alumnos, se sigue las siguientes reglas:
     <br>
-	Si el numero de faltas es <=6, la calificación es la capturada en el dato promedio de la estructura, pero si no, la calificación que se toma es 5.
+	Si el numero de faltas es <=6, la calificación es la capturada en el dato promedio de la estructura, pero si no, la calificación que se toma es 5. 
+	<br>
     Aviso: Este programa se encuentra funcional, pero incompleto. Su versión completa se clasificará como tarea.
 <br>
 </p>
